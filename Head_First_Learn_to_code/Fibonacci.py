@@ -21,3 +21,28 @@ for i in range(0, 101):
 finish = time.time()
 duration = finish - start
 print('Computed all 100 in',duration, 'seconds')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
